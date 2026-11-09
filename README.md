@@ -20,6 +20,7 @@ apps and sports-analytics tools, and I do robot learning research.
 | [**diamond-college-baseball**](https://github.com/carsongranese3/diamond-college-baseball) | College baseball site for the SEC and ACC: box scores, play-by-play, stats and the full postseason. Flask + React on Azure. **[Live site →](https://collegebaseball.carsontech.ai)** |
 | [**reps**](https://github.com/carsongranese3/reps) | Workout tracker PWA: calendar planning, guided set-by-set tracking, PRs and streaks. TypeScript, React, Express, SQLite, 212 tests. |
 | [**cookbook**](https://github.com/carsongranese3/cookbook) | Turns Instagram and TikTok cooking videos into structured recipes with Gemini, plus meal planning and a receipt-priced shopping list. |
+| [**budget**](https://github.com/carsongranese3/budget) | Local-only budgeting app: imports bank and card CSVs without duplicates, learns merchant rules for categories, and tracks budgets, trends and recurring bills. TypeScript, React, Express, SQLite, 208 tests. |
 | [**baseball-defender-positioning**](https://github.com/carsongranese3/baseball-defender-positioning) | Recommends defensive alignments for a batter-pitcher matchup with a constrained k-means that enforces MLB's anti-shift rules. |
 | [**Skylore**](https://devpost.com/software/skylore) | Best Celestial-Themed Project at HackTX 2025: identifies constellations in night-sky photos and maps light pollution. |
 
